@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rahul-ukey
-- 👀 I’m interested in devOps tech...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Rahul ukey .
+- 👀 I’m interested in DevOps & Cloud Computing
+- 🌱 Currently working on DevOps Tools, AWS & Linux
+- 💞️ Looking to collaborate on DevOps Projects
+- 📫 ukeyrahul@outlook.com .
 
 <!---
 Rahul-ukey/Rahul-ukey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
